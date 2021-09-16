@@ -5,7 +5,7 @@ const CONFIG = {
     Còn em thì bước sang tuổi đủ dịu dàng.`,
     btnIntro: 'Chị muốn nói với em là...',
     title: 'Em ơi, yêu là không lo mà đã lo là không yêu',
-    desc: 'Thế mình yêu nhau đi và đừng lo gì cả nhé',
+    desc: 'Thế mình yêu nhau đi và đừng lo gì nhé',
     btnYes: 'Cứ tưởng Quỳnh không bao giờ nói ra',
     btnNo: 'Quỳnh mơ đấy à',
     question:'Đùa tí! Nhưng thích em là thật <3',
